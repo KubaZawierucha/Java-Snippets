@@ -1,7 +1,4 @@
-readme file
+This repository contains some useful java code fragments.
 
-hello world!
-this is our readme file
-readme
-whatever
-shortcut
+MainClass (testing interface) - 03/07/2019
+RandomNumberGenerator - 	03/07/2019
