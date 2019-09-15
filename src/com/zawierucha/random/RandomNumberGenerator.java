@@ -1,3 +1,5 @@
+package com.zawierucha.random;
+
 import java.util.Random;
 
 public class RandomNumberGenerator {
